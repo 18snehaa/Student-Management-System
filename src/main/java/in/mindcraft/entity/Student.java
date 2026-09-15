@@ -45,7 +45,7 @@ public class Student {
     @Column(name = "updated_date")
     private LocalDateTime updatedDate;
 
-
+    //
     public Student() {
     }
 
